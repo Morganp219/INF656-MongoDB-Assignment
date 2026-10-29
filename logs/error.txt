@@ -1,0 +1,11 @@
+10/18/2026, 8:59:18 PM >> /api/items/a >> Error: Unable to find item!
+    at file:///C:/Users/Morgan/Desktop/FHSU/INF656/Midterm/routes/itemroutes.js:44:15
+    at Layer.handleRequest (C:\Users\Morgan\Desktop\FHSU\INF656\Midterm\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Morgan\Desktop\FHSU\INF656\Midterm\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Morgan\Desktop\FHSU\INF656\Midterm\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Morgan\Desktop\FHSU\INF656\Midterm\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Morgan\Desktop\FHSU\INF656\Midterm\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Morgan\Desktop\FHSU\INF656\Midterm\node_modules\router\index.js:295:15
+    at param (C:\Users\Morgan\Desktop\FHSU\INF656\Midterm\node_modules\router\index.js:600:14)
+    at param (C:\Users\Morgan\Desktop\FHSU\INF656\Midterm\node_modules\router\index.js:610:14)
+    at processParams (C:\Users\Morgan\Desktop\FHSU\INF656\Midterm\node_modules\router\index.js:664:3)

@@ -1,0 +1,10 @@
+img {
+    width: 100vw;
+    object-fit: contain;
+}
+h1 {
+    text-align: center;
+    width: 100vw;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
