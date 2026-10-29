@@ -38,7 +38,7 @@ Returns
     ...
 ]
 ```
-GET - /api/items/:id >> Get Item by Identification (Number)
+GET - /api/items/:id >> Get Item by Identification
 Returns
 ```
 
@@ -69,7 +69,7 @@ Returns
     "price": 2.48
 }
 ```
-PATCH - /api/items/:id >> Update an Item by Identification (Number) - Name, Category, and Price are optional
+PATCH - /api/items/:id >> Update an Item by Identification - Name, Category, and Price are optional
 Body
 ```
 {
@@ -86,4 +86,4 @@ Returns
     "price": 2.48
 }
 ```
-DELETE - /api/items/:id >> Delete Item by Identification (Number)
+DELETE - /api/items/:id >> Delete Item by Identification
